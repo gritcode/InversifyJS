@@ -36,7 +36,7 @@
   "license": "MIT",
   "main": "lib/inversify.js",
   "module": "es/inversify.js",
-  "name": "inversify",
+  "name": "@gritcode/inversify",
   "repository": {
     "type": "git",
     "url": "https://github.com/inversify/InversifyJS.git"
